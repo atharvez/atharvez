@@ -50,14 +50,6 @@ I'm Atharva Desai
 
 ---
 
-## 🚀 Featured Projects
-
-- 🔹 **Lang2CAD** – Natural language to parametric CAD engine
-- 🔹 **Blockchain Supply Chain** – Transparent agriculture system
-- 🔹 **ML Pipelines** – Industrial data processing & prediction
-
----
-
 ## 🧠 Currently Learning
 - Advanced Machine Learning
 - System Design
