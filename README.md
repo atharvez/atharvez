@@ -25,7 +25,7 @@ I'm Atharva Desai
 ### 👨‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
-![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql)
+![SQL](https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=mysql)
 
 ### 🌐 Web Development
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
