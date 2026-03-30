@@ -23,7 +23,7 @@ I'm Atharva Desai
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
 ![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql)
 
