@@ -59,7 +59,3 @@ I'm Atharva Desai
 
 ## ⚡ Fun Fact
 I love combining AI with engineering systems to build futuristic solutions 🤖
-
----
-
-⭐️ From [atharvez](https://github.com/atharvez)
