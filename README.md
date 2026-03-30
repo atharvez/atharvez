@@ -77,10 +77,4 @@ I love combining AI with engineering systems to build futuristic solutions 🤖
 
 ---
 
-## 🐍 Contribution Snake Animation
-
-![snake gif](https://github.com/atharvez/atharvez/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ⭐️ From [atharvez](https://github.com/atharvez)
