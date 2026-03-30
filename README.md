@@ -44,14 +44,6 @@ I'm Atharva Desai
 
 ---
 
-## 📊 GitHub Stats
-
-![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharvez&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvez&layout=compact&theme=tokyonight)
-
----
-
 ## 🔥 Streak Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=atharvez&theme=tokyonight)
