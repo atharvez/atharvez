@@ -22,8 +22,8 @@ python · go · postgres · docker · pytorch · a bit of everything really
 #### numbers, if you're into that
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&hide_border=true" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?atharvez&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?atharvez&hide_border=true" alt="GitHub Streak" height="160"/>
 </p>
 
 #### find me around
