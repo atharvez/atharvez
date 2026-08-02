@@ -1,60 +1,39 @@
-# Hi there, I'm Atharva Desai
+# Hi, I'm Atharva Desai
 
-🚀 Computer Engineering Student | ML & Full-Stack Developer
+Backend Engineer focused on building scalable systems, with a growing interest in AI/ML — from designing robust APIs to experimenting with model training and deployment.
 
----
+## 🔭 What I'm Working On
 
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/atharvaatuldesai)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/atharvez)
-
----
-
-## 💡 About Me
-- 🎓 B.Tech Computer Engineering (PCCOE, Pune)
-- 🤖 Passionate about Machine Learning & AI
-- 🌐 Full-stack developer using Next.js & modern tools
-- 🧠 Strong in Data Structures & Problem Solving
-- ⚡ Love building real-world impactful projects
-
----
+- Building backend services with clean architecture and solid API design
+- Exploring machine learning workflows — data pipelines, model experimentation, and deployment
+- Learning and applying MLOps practices to bridge backend engineering and ML
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
-![SQL](https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=mysql)
+**Languages:** Python · Java · Go  
+**Backend:** REST APIs · gRPC · Microservices  
+**Databases:** PostgreSQL · MongoDB · Redis  
+**ML/AI:** PyTorch · scikit-learn · Pandas · NumPy  
+**Tools:** Docker · Kubernetes · Git · CI/CD
 
-### 🌐 Web Development
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwind-css)
+## 📊 GitHub Stats
 
-### 🤖 Machine Learning
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-yellow?style=for-the-badge&logo=scikit-learn)
-![PyTorch](https://img.shields.io/badge/PyTorch-white?style=for-the-badge&logo=pytorch)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
 
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws)
-![GCP](https://img.shields.io/badge/GCP-blue?style=for-the-badge&logo=google-cloud)
-![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
-![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge&logo=fastapi)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+</p>
 
----
+## 🌐 Connect With Me
 
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=atharvez&theme=tokyonight)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/yourusername)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white)](https://yourportfolio.com)
 
 ---
 
-## 🧠 Currently Learning
-- Advanced Machine Learning
-- System Design
-- Scalable Backend Systems
-
----
-
-## ⚡ Fun Fact
-I love combining AI with engineering systems to build futuristic solutions 🤖
+<p align="left"><i>Thanks for stopping by — feel free to explore my repositories or reach out!</i></p>
