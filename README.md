@@ -1,39 +1,38 @@
-# Hi, I'm Atharva Desai
+### Hey, it's Atharva
 
-Backend Engineer focused on building scalable systems, with a growing interest in AI/ML — from designing robust APIs to experimenting with model training and deployment.
+backend guy. dabbling in AI/ML when the mood strikes.
+building stuff, breaking stuff, occasionally fixing it.
 
-## 🔭 What I'm Working On
+#### currently
 
-- Building backend services with clean architecture and solid API design
-- Exploring machine learning workflows — data pipelines, model experimentation, and deployment
-- Learning and applying MLOps practices to bridge backend engineering and ML
+- writing backend services that (mostly) don't fall over
+- poking at ML models, seeing what happens
+- not in a rush
 
-## 🛠️ Tech Stack
+#### stack
 
-**Languages:** Python · Java · Go  
-**Backend:** REST APIs · gRPC · Microservices  
-**Databases:** PostgreSQL · MongoDB · Redis  
-**ML/AI:** PyTorch · scikit-learn · Pandas · NumPy  
-**Tools:** Docker · Kubernetes · Git · CI/CD
+python · go · postgres · docker · pytorch · a bit of everything really
 
-## 📊 GitHub Stats
+#### stuff i've made
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
+- **[project name](https://github.com/yourusername/project-repo)** — does a thing, works pretty well
+- **[project name](https://github.com/yourusername/project-repo)** — another one, check it out if you want
+- **[project name](https://github.com/yourusername/project-repo)** — this one too, no pressure
+
+#### numbers, if you're into that
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&hide_border=true" alt="GitHub Streak" height="160"/>
 </p>
 
-## 🌐 Connect With Me
+#### find me around
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
 [![Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/yourusername)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/site-000000?style=flat&logo=googlechrome&logoColor=white)](https://yourportfolio.com)
 
 ---
 
-<p align="left"><i>Thanks for stopping by — feel free to explore my repositories or reach out!</i></p>
+<sub>that's about it. thanks for scrolling this far ✌️</sub>
