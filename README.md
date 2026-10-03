@@ -11,20 +11,20 @@ building stuff, breaking stuff, occasionally fixing it.
 
 #### stack
 
-python Â· typescript Â· go Â· postgres Â· docker Â· pytorch Â· a bit of everything really
+python - typescript - go - postgres - docker - pytorch - a bit of everything really
 
 #### stuff i've made
 
-- **[athleteQ](https://github.com/atharvez/athleteQ)** â€” athlete queueing + performance analysis. react native + fastapi + supabase
-- **[screenshot-bookmark](https://github.com/atharvez/screenshot-bookmark)** â€” local-first visual bookmark manager with ocr + ai tagging
-- **[Paysure](https://paysure-hazel.vercel.app)** â€” payment dashboard. next.js, works live
-- **[CampusClutch](https://github.com/atharvez/CampusClutch)** â€” find teammates for hackathons/projects. real-time, socket.io
-- **[Docusmart](https://github.com/atharvez/Docusmart)** â€” chat with your documents. gemini-powered, built at a hackathon
-- **[Cropblock](https://cropblock.vercel.app)** â€” crop marketplace connecting farmers to buyers
-- **[MiniML](https://github.com/atharvez/MiniML)** â€” lightweight ml platform. train models from a ui, docker-compose
-- **[rewrite-desk](https://github.com/atharvez/rewrite-desk)** â€” single-file editor for humanizing ai content. no deps, just open and write
-- **[Ezkart](https://github.com/atharvez/Ezkart)** â€” vision language model shopping assistant
-- **[Personal-Finance](https://personal-finance-one-sand.vercel.app)** â€” personal finance tracker, live
+- **[athleteQ](https://github.com/atharvez/athleteQ)** -- athlete queueing + performance analysis (React Native, FastAPI, Supabase)
+- **[screenshot-bookmark](https://github.com/atharvez/screenshot-bookmark)** -- local-first visual bookmark manager with OCR and AI tagging
+- **[Paysure](https://paysure-hazel.vercel.app)** -- modern payment processing dashboard (Next.js, TypeScript)
+- **[CampusClutch](https://github.com/atharvez/CampusClutch)** -- student team formation platform for hackathons (Next.js, Socket.io)
+- **[Docusmart](https://github.com/atharvez/Docusmart)** -- AI document intelligence and conversational Q&A (Next.js, Gemini API)
+- **[Cropblock](https://cropblock.vercel.app)** -- smart crop management and marketplace platform
+- **[MiniML](https://github.com/atharvez/MiniML)** -- lightweight machine learning platform with UI training and Docker
+- **[rewrite-desk](https://github.com/atharvez/rewrite-desk)** -- single-file editor for humanizing AI content with inline diffs
+- **[Ezkart](https://github.com/atharvez/Ezkart)** -- vision language model shopping assistant
+- **[Personal-Finance](https://personal-finance-one-sand.vercel.app)** -- full-stack personal finance tracker
 
 #### numbers, if you're into that
 
