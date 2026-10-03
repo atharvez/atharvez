@@ -1,23 +1,30 @@
 ### Hey, it's Atharva.
 
-backend guy. dabbling in AI/ML when the mood strikes.
+cs undergrad. backend guy. dabbling in AI/ML when the mood strikes.
 building stuff, breaking stuff, occasionally fixing it.
 
 #### currently
 
 - writing backend services that (mostly) don't fall over
 - poking at ML models, seeing what happens
-- not in a rush
+- shipping side projects nobody asked for
 
 #### stack
 
-python · go · postgres · docker · pytorch · a bit of everything really
+python Â· typescript Â· go Â· postgres Â· docker Â· pytorch Â· a bit of everything really
 
 #### stuff i've made
 
-- **[project name](https://github.com/atharvez/project-repo)** — does a thing, works pretty well
-- **[project name](https://github.com/atharvez/project-repo)** — another one, check it out if you want
-- **[project name](https://github.com/atharvez/project-repo)** — this one too, no pressure
+- **[athleteQ](https://github.com/atharvez/athleteQ)** â€” athlete queueing + performance analysis. react native + fastapi + supabase
+- **[screenshot-bookmark](https://github.com/atharvez/screenshot-bookmark)** â€” local-first visual bookmark manager with ocr + ai tagging
+- **[Paysure](https://paysure-hazel.vercel.app)** â€” payment dashboard. next.js, works live
+- **[CampusClutch](https://github.com/atharvez/CampusClutch)** â€” find teammates for hackathons/projects. real-time, socket.io
+- **[Docusmart](https://github.com/atharvez/Docusmart)** â€” chat with your documents. gemini-powered, built at a hackathon
+- **[Cropblock](https://cropblock.vercel.app)** â€” crop marketplace connecting farmers to buyers
+- **[MiniML](https://github.com/atharvez/MiniML)** â€” lightweight ml platform. train models from a ui, docker-compose
+- **[rewrite-desk](https://github.com/atharvez/rewrite-desk)** â€” single-file editor for humanizing ai content. no deps, just open and write
+- **[Ezkart](https://github.com/atharvez/Ezkart)** â€” vision language model shopping assistant
+- **[Personal-Finance](https://personal-finance-one-sand.vercel.app)** â€” personal finance tracker, live
 
 #### numbers, if you're into that
 
@@ -30,9 +37,8 @@ python · go · postgres · docker · pytorch · a bit of everything really
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvez)
 [![Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/atharvez)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/site-000000?style=flat&logo=googlechrome&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:7atharvadesai@gmail.com)
 
 ---
 
-<sub>that's about it. thanks for scrolling this far ✌️</sub>
+<sub>that's about it. thanks for scrolling this far</sub>
